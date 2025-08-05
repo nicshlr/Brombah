@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Online Banking**
 
-- 🌱 I’m currently learning **Ionic**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java, Javascript/Typescript**
 
