@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Currently Learning
-- Flutter (for cross-platform mobile awesomeness)
+- Flutter
 
 ### 💼 Currently Working On
 - Online Banking Systems @ 🏦
