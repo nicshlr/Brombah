@@ -12,10 +12,10 @@
 - Flutter
 
 ### 💼 Currently Working On
-- Online Banking Systems @ 🏦
+- Online Banking Systems 🏦
 
 ### 💬 Ask Me About
-- Java | JavaScript | TypeScript | Angular | Spring Boot
+- Java | JavaScript | TypeScript | Angular or React | Spring Boot
 
 ---
 
